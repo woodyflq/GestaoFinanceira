@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261828272537",
+    "project_id": "fir-db-725bc",
+    "storage_bucket": "fir-db-725bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261828272537:android:9bd712af22a284962e7308",
+        "android_client_info": {
+          "package_name": "com.example.gestofinanceira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261828272537-kuo3qja3avrl3p07kp39i6f6dg1vlci5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc6hvEgW4c12Q3vBLyG7AZZ9EUX1zjqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261828272537-kuo3qja3avrl3p07kp39i6f6dg1vlci5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
